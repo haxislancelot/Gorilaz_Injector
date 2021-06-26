@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
+    <a href="https://github.com/haxislancelot/Gorilaz_Injector">
       Source Code
     </a>
     <span> | </span>
